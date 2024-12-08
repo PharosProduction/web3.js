@@ -176,3 +176,6 @@ This project adheres to the [Release Guidelines](./REVIEW.md).
 [netlify-url]: https://app.netlify.com/sites/web3-staging/deploys
 [stackexchange-image]: https://img.shields.io/badge/web3js-stackexchange-brightgreen
 [stackexchange-url]: https://ethereum.stackexchange.com/questions/tagged/web3js
+
+By [Dmytro Nasyrov, Founder, CTO at Pharos Production Inc.](https://www.linkedin.com/in/dmytronasyrov/)
+And [Pharos Production Inc. - Web3, blockchain, fintech, defi software development services](https://pharosproduction.com)
